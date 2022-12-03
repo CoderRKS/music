@@ -1,0 +1,108 @@
+body {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    background-image: linear-gradient(cyan, rgb(70, 70, 231));
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.btn {
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    font-size: 3vh;
+    font-family: 'Audiowide', cursive;
+    margin-bottom: 20px;
+}
+
+.leftright {
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    background-color: rgb(155, 228, 246);
+    box-shadow: 10px 10px 20px black;
+}
+
+.head {
+    margin-top: 20px;
+    color: rgb(24, 3, 249);
+    text-shadow: 5px 5px 7px rgb(156, 156, 156);
+    font-family: 'Merienda', cursive;
+}
+
+.headding {
+    font-family: 'Zen Dots', cursive;
+    color: white;
+    font-size: 5vh;
+    text-shadow: 7px 7px 5px rgb(9, 9, 197);
+}
+
+#btnplay1 {
+    background-color: green;
+    animation: glow 4s;
+    color: white;
+}
+
+#btnplay2 {
+    background-color: green;
+    animation: glow 4s;
+    color: white;
+}
+#btnplay3 {
+    background-color: green;
+    animation: glow 4s;
+    color: white;
+}
+#btnplay4 {
+    background-color: green;
+    animation: glow 4s;
+    color: white;
+}
+#btnplay5 {
+    background-color: green;
+    animation: glow 4s;
+    color: white;
+}
+#btnplay6 {
+    background-color: green;
+    animation: glow 4s;
+    color: white;
+}
+#btnplay7 {
+    background-color: green;
+    animation: glow 4s;
+    color: white;
+}
+#btnstop1{
+    background-color: red;
+    color: white;
+}
+#btnstop2{
+    background-color: red;
+    color: white;
+}
+#btnstop3{
+    background-color: red;
+    color: white;
+}
+#btnstop4{
+    background-color: red;
+    color: white;
+}
+#btnstop5{
+    background-color: red;
+    color: white;
+}
+#btnstop6{
+    background-color: red;
+    color: white;
+}
+#btnstop7{
+    background-color: red;
+    color: white;
+}
+@keyframes glow{
+    
+}
